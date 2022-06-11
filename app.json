@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "timepad",
+    "slug": "timepad",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "timepad"
+}
